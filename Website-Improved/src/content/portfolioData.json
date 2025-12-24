@@ -1,0 +1,118 @@
+{
+  "contact": {
+    "name": "Naveh Spector",
+    "role": "Integration Manager & Engineering Specialist",
+    "email": "navehspec@gmail.com",
+    "phone": "+972 54 567 0248"
+  },
+  "projects": [
+    {
+      "id": "p-01",
+      "slug": "anechoic chamber",
+      "title": "Anechoic Chamber",
+      "category": "Lab Build",
+      "short": "Designed and built an in-house anechoic chamber to test 80Ghz radar",
+      "description": "Due to the inaccessibility and price of professional Anechoic rooms, I designed and build a small scale (2x1x1m) chamber to perform bring up, tests and capability gauging chamber with a programmable 2 axis rotator for mm-wave radars.",
+      "image": "photo_1.jpg",
+      "photos": [
+        "photo_1.jpg",
+        "photo_2.jpg",
+        "photo_3.jpg",
+        "photo_4.jpg",
+        "photo_5.jpg",
+        "photo_6.jpg"
+      ]
+    },
+    {
+      "id": "p-02",
+      "slug": "Diana - Army Surveillance",
+      "title": "Military Surveillance System",
+      "category": "Field System",
+      "short": "Developed and implemented a full control, communication and recognition framework for a military grade PTZ dual channel camera",
+      "description": "Converted a decomissioned dual sensor PTZ camera to a fully functional system by reverse engineering the internal system and building a complete framework around it. Designed and developed the control dashboard, power solution, 3 working communication solutions (4g, Long Range high power directional wifi, and tethered), and implemented AI target recognition. Developed the system to run on a NVIDIA Jetson Platform to allow edge computing and minimal equipment requirement to run the system.",
+      "image": "photo_1.jpg",
+      "photos": [
+        "photo_1.jpg",
+        "photo_2.jpg",
+        "photo_3.jpg"
+      ],
+      "videos": [
+        "video_1.mp4"
+      ]
+    },
+    {
+      "id": "p-03",
+      "slug": "eVoway",
+      "title": "eVoWay",
+      "category": "Product Hardware",
+      "short": "A micro-mobility solution of a surf like two-wheeler that folds and carries easily",
+      "description": "I helped design and build this project for years as a hobby, and led the attempt to take it to the market. Through many iterations, tests and rides, we've built a robust solution for the urban micro-mobility field. Won the first place in Maof's accelerator in Ashdod, and eventually laying this project to rest during the first months of Covid, this has been one of the most challenging and fun projects I took part in. I still use it and ride it to this day.",
+      "image": "photo_1.jpg",
+      "photos": [
+        "photo_1.jpg",
+        "photo_2.jpg",
+        "photo_3.jpg",
+        "photo_4.jpg",
+        "photo_5.jpg",
+        "photo_6.jpg",
+        "photo_7.jpg",
+        "photo_8.jpg"
+      ],
+      "videos": [
+        "video_1.mp4"
+      ]
+    },
+    {
+      "id": "p-04",
+      "slug": "Radar Car Mount",
+      "title": "versatile Car Radar Testing Mount",
+      "category": "Integration",
+      "short": "Automotive radar integration fixtures designed for rapid field testing and precise sensor alignment.",
+      "description": "Designed and fabricated versatile exterior mounting solutions for automotive radar testing. The two systems designed to not damage the rented vehicle, provide testing stability and accuracy and to be attached and dettached abroad in rented vehicles for business demonstrations.",
+      "image": "photo_2025-12-10_10-23-56.jpg",
+      "photos": [
+        "photo_2025-12-10_10-23-56.jpg",
+        "photo_2025-12-10_10-24-04.jpg",
+        "photo_2025-12-10_10-24-19.jpg",
+        "photo_2025-12-10_10-24-33.jpg",
+        "photo_2025-12-10_10-25-42.jpg",
+        "photo_2025-12-10_10-26-44.jpg"
+      ]
+    },
+    {
+      "id": "p-05",
+      "slug": "RadSee - Testing Rigs",
+      "title": "RadSee - Testing Rigs",
+      "category": "Test Fixture",
+      "short": "Precision lab fixtures engineered for repeatable sensor calibration and alignment.",
+      "description": "Engineered modular testing rigs to stabilize radar units during critical calibration phases. The design prioritizes component accessibility and repeatability, significantly reducing setup time for both laboratory and outdoor environmental testing.",
+      "image": "photo_2025-12-10_10-22-07.jpg",
+      "photos": [
+        "photo_2025-12-10_10-22-07.jpg",
+        "photo_2025-12-10_10-23-46.jpg",
+        "photo_2025-12-10_10-24-12.jpg"
+      ]
+    },
+    {
+      "id": "p-06",
+      "slug": "Sofia",
+      "title": "Sofia - Portable rugged surveillance system for troops",
+      "category": "Prototype",
+      "short": "A kit of 4 day/thermal cameras to be deployed in conflict areas to protect troops",
+      "description": "Designed and developed a lightweight small kit for troops in active combat zones to deploy for perimeter protection. Developed and deployed in an extremely tight time and budget constraints to provide security for troops in active duty. I designed and manufactured dozens of units from the ground up including part and material selection, mechanics, electronics and software.",
+      "image": "photo_2025-12-10_10-27-10.jpg",
+      "photos": [
+        "photo_2025-12-10_10-27-15.jpg",
+        "photo_2025-12-10_10-27-10.jpg",
+        "photo_2025-12-10_10-27-43.jpg"
+      ]
+    }
+  ],
+  "generalImages": [
+    "IMG_20190910_125710.jpg",
+    "photo_2025-12-10_10-25-39.jpg",
+    "photo_2025-12-10_10-27-49.jpg",
+    "photo_3_2025-12-10_10-22-54.jpg",
+    "photo_4_2025-12-10_10-22-54.jpg"
+  ]
+}
